@@ -1,6 +1,6 @@
 market_state_momentum_venv/
-# ignore every CSV in Datasets …
+# ignore datasets of wrds
 Datasets/*.csv
-# …but un-ignore the one we really want to keep
+# un-ignore commissions datset
 !Datasets/Commissions_monthly.csv
  
