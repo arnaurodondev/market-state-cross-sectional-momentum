@@ -1,3 +1,6 @@
 market_state_momentum_venv/
-"Datasets/*.csv" 
-"Datasets/*.csv" 
+# ignore every CSV in Datasets …
+Datasets/*.csv
+# …but un-ignore the one we really want to keep
+!Datasets/Commissions_monthly.csv
+ 
