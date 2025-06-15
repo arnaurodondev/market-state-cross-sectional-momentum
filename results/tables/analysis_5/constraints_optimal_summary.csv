@@ -1,0 +1,5 @@
+Optimization Criterion,Liquidity Cutoff,Market Cap Cutoff,Avg Monthly Return (%),t-statistic,Sharpe Ratio,Max Drawdown (%)
+Highest Return,95%,90%,0.78,2.183,0.419,56.4
+Best Sharpe Ratio,70%,90%,0.67,2.527,0.428,37.9
+Best t-Statistic,30%,80%,0.56,2.595,0.402,29.6
+Lowest Volatility,50%,50%,0.44,2.196,0.320,32.5

@@ -1,0 +1,11 @@
+Metric,Traditional (No Costs),Traditional (With Costs),State-Dependent (No Costs),State-Dependent (With Costs)
+Average Monthly Return (%),0.55,0.15,1.30,0.74
+Annualized Return (%),6.8,1.9,16.8,9.3
+Monthly Volatility (%),7.03,5.30,6.02,4.92
+Annualized Volatility (%),24.4,18.3,20.9,17.0
+Sharpe Ratio,0.271,0.101,0.747,0.523
+Maximum Drawdown (%),-82.2,-74.9,-42.7,-30.4
+t-statistic (HAC),1.403,0.597,4.375,2.902
+p-value,0.1607,0.5507,0.0000,0.0037
+Skewness,-2.558,-1.979,1.298,1.807
+Excess Kurtosis,12.391,14.128,10.679,16.775
