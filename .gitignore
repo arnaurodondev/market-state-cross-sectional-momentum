@@ -3,4 +3,4 @@ market_state_momentum_venv/
 Datasets/*.csv
 # un-ignore commissions datset
 !Datasets/Commissions_monthly.csv
- 
+__pycache__
