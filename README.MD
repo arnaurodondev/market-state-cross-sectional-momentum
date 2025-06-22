@@ -89,6 +89,6 @@ Code is released under the **Apache 2.0** license – free for academic and com
 
 ### Author
 
-*Arnau Rodon Comas*  •  [arnaurodondev@gmail.com](mailto:arnaurodondev@gmail.com)
+*Arnau Rodon Comas*  •  [rodonarnau@gmail.com](mailto:rodonarnau@gmail.com)
 
 Made with ❤️ and lots of HAC standard errors.
