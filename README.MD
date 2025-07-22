@@ -3,7 +3,7 @@
 *A Python research code base accompanying the paper*
 
 > **Winners & Losers in Motion – A Market‑State Momentum Signal that Reverses Roles for Robust Returns (1940‑2024)**
-> Arnau Rodon Comas (Universitat Pompeu Fabra & University of Essex) – *under review at several international finance conferences*
+> Arnau Rodon Comas (Universitat Pompeu Fabra & University of Essex) – *under review*
 
 ---
 
